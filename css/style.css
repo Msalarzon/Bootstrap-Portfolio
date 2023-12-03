@@ -22,7 +22,23 @@
 }
 
 
-/* About/Content Section */
+/* Work Styles */
+
+#work {
+    padding: 10px;
+}
+
+/* About/Content Styles */
 
 #about a {
+    text-decoration: none;
+}
+
+#about a:hover {
+    color: purple;
+}
+
+#about .col-md-8 p {
+    text-align: justify;
+
 }
