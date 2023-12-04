@@ -1,9 +1,6 @@
-/* General Styles */
-
-
 /* Hero Styles */
 #hero {
-    background-image: url(../images/background-poly.jpg);
+    background-image: url(../images/background-hero.jpg);
     margin-bottom: 10px;
 }
 
@@ -23,13 +20,19 @@
 
 
 /* Work Styles */
-
 #work {
     padding: 10px;
 }
 
-/* About/Content Styles */
+#work .card {
+    background: linear-gradient(to bottom, white, #d3d3d3);
+}
 
+#word .card .h5 {
+    color: white;
+}
+
+/* About/Content Styles */
 #about a {
     text-decoration: none;
 }
