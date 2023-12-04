@@ -23,13 +23,15 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-![Website Screenshot](images/website-screencapture.png)
 [Link to deployed application](https://msalarzon.github.io/Bootstrap-Portfolio/)
+
+![Website Screenshot](images/website-screencapture.png)
 
 Explore my dynamic portfolio for:
 
 - Insights into my background, skills, and experiences.
 - Detailed views and descriptions of showcased projects with images.
+  (Image/text placeholders have been used in some sections as templates for future content).
 - Effortless navigation through portfolio sections via intuitive links.
 - A responsive design for an optimal viewing experience on various devices.
 
